@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rishamsandhuu/comp3104-labs/static/css/main.27ca76a1.css",
+    "main.js": "/rishamsandhuu/comp3104-labs/static/js/main.83fba0ac.js",
+    "static/js/453.8627a56a.chunk.js": "/rishamsandhuu/comp3104-labs/static/js/453.8627a56a.chunk.js",
+    "index.html": "/rishamsandhuu/comp3104-labs/index.html",
+    "main.27ca76a1.css.map": "/rishamsandhuu/comp3104-labs/static/css/main.27ca76a1.css.map",
+    "main.83fba0ac.js.map": "/rishamsandhuu/comp3104-labs/static/js/main.83fba0ac.js.map",
+    "453.8627a56a.chunk.js.map": "/rishamsandhuu/comp3104-labs/static/js/453.8627a56a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.83fba0ac.js"
+  ]
+}
